@@ -1,0 +1,12 @@
+body {
+	background-color: lightblue;
+	font-family: "Courier New", Courier, monospace;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-DwKN3W5unthVhQEL0aMD82dyJCUuWaXFAOzjSFv7dsXVIpL-w');
+	background-size: cover;
+	text-align: center;
+}
+
+button {
+  color: purple;
+  font-weight: bold;
+}
